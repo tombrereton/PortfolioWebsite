@@ -1,10 +1,9 @@
-baseurl = "https://tombrereton.github.io/portfoliowebsite"
+baseurl = "https://tombrereton.github.io/"
 title = "Tom Brereton"
 author = "Tom Brereton"
 canonifyurls = true
 languagecode = "en"
 theme = "hugo-black-and-light-theme"
-publishDir: "docs"
 buildDrafts = true
 
 pygmentsstyle       = "bw"
