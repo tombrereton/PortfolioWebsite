@@ -1,4 +1,5 @@
-baseurl = "https://tombrereton.github.io/"
+baseurl = "https://tombrereton.github.io/PortfolioWebsite/"
+
 title = "Tom Brereton"
 author = "Tom Brereton"
 canonifyurls = true
