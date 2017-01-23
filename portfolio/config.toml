@@ -1,0 +1,26 @@
+baseurl = "https://tombrereton.github.io/portfoliowebsite"
+title = "Tom Brereton"
+author = "Tom Brereton"
+canonifyurls = true
+languagecode = "en"
+theme = "hugo-black-and-light-theme"
+publishDir: "docs"
+buildDrafts = true
+
+pygmentsstyle       = "bw"
+pygmentscodefences  = true
+
+[params]
+  sitename = "Tom Brereton"
+  disqusShortname = "thomasbrereton"
+
+[[menu.main]]
+    name = "About"
+    url  = "/about/"
+[[menu.main]]
+    name = "Projects"
+    url  = "/projects/"
+[[menu.main]]
+    name = "Resume"
+    url  = "/resume/"
+
