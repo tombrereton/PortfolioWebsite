@@ -2,111 +2,111 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   
   <url>
-    <loc>https://tombrereton.github.io/portfoliowebsite/projects/</loc>
+    <loc>https://tombrereton.github.io/PortfolioWebsite/projects/</loc>
     <lastmod>2017-01-20T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>https://tombrereton.github.io/portfoliowebsite/resume/</loc>
+    <loc>https://tombrereton.github.io/PortfolioWebsite/resume/</loc>
     <lastmod>2017-01-20T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>https://tombrereton.github.io/portfoliowebsite/post/hugo-block-and-light-theme/</loc>
+    <loc>https://tombrereton.github.io/PortfolioWebsite/post/hugo-block-and-light-theme/</loc>
     <lastmod>2017-01-08T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>https://tombrereton.github.io/portfoliowebsite/post/creating-a-new-theme/</loc>
+    <loc>https://tombrereton.github.io/PortfolioWebsite/post/creating-a-new-theme/</loc>
     <lastmod>2014-09-28T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>https://tombrereton.github.io/portfoliowebsite/about/</loc>
+    <loc>https://tombrereton.github.io/PortfolioWebsite/about/</loc>
     <lastmod>2014-04-09T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>https://tombrereton.github.io/portfoliowebsite/post/goisforlovers/</loc>
+    <loc>https://tombrereton.github.io/PortfolioWebsite/post/goisforlovers/</loc>
     <lastmod>2014-04-02T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>https://tombrereton.github.io/portfoliowebsite/post/hugoisforlovers/</loc>
+    <loc>https://tombrereton.github.io/PortfolioWebsite/post/hugoisforlovers/</loc>
     <lastmod>2014-04-02T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>https://tombrereton.github.io/portfoliowebsite/post/migrate-from-jekyll/</loc>
+    <loc>https://tombrereton.github.io/PortfolioWebsite/post/migrate-from-jekyll/</loc>
     <lastmod>2014-03-10T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>https://tombrereton.github.io/portfoliowebsite/categories/</loc>
+    <loc>https://tombrereton.github.io/PortfolioWebsite/categories/</loc>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>https://tombrereton.github.io/portfoliowebsite/tags/development/</loc>
+    <loc>https://tombrereton.github.io/PortfolioWebsite/tags/development/</loc>
     <lastmod>2014-04-02T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>https://tombrereton.github.io/portfoliowebsite/categories/development/</loc>
+    <loc>https://tombrereton.github.io/PortfolioWebsite/categories/development/</loc>
     <lastmod>2014-04-02T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>https://tombrereton.github.io/portfoliowebsite/tags/go/</loc>
+    <loc>https://tombrereton.github.io/PortfolioWebsite/tags/go/</loc>
     <lastmod>2014-04-02T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>https://tombrereton.github.io/portfoliowebsite/tags/golang/</loc>
+    <loc>https://tombrereton.github.io/PortfolioWebsite/tags/golang/</loc>
     <lastmod>2014-04-02T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>https://tombrereton.github.io/portfoliowebsite/categories/golang/</loc>
+    <loc>https://tombrereton.github.io/PortfolioWebsite/categories/golang/</loc>
     <lastmod>2014-04-02T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>https://tombrereton.github.io/portfoliowebsite/tags/hugo/</loc>
+    <loc>https://tombrereton.github.io/PortfolioWebsite/tags/hugo/</loc>
     <lastmod>2014-04-02T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>https://tombrereton.github.io/portfoliowebsite/post/</loc>
+    <loc>https://tombrereton.github.io/PortfolioWebsite/post/</loc>
     <lastmod>2017-01-08T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>https://tombrereton.github.io/portfoliowebsite/tags/</loc>
+    <loc>https://tombrereton.github.io/PortfolioWebsite/tags/</loc>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>https://tombrereton.github.io/portfoliowebsite/tags/templates/</loc>
+    <loc>https://tombrereton.github.io/PortfolioWebsite/tags/templates/</loc>
     <lastmod>2014-04-02T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>https://tombrereton.github.io/portfoliowebsite/tags/themes/</loc>
+    <loc>https://tombrereton.github.io/PortfolioWebsite/tags/themes/</loc>
     <lastmod>2014-04-02T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>https://tombrereton.github.io/portfoliowebsite/</loc>
+    <loc>https://tombrereton.github.io/PortfolioWebsite/</loc>
     <lastmod>2017-01-20T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
