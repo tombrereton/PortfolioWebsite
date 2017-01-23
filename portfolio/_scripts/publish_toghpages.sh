@@ -27,3 +27,5 @@ hugo
 
 echo "Updating gh-pages branch"
 cd public && git add --all && git commit -m "Publishing to gh-pages (publish.sh)"
+
+echo "\nRemember to cd to /public and git gui to push to gh-pages"

@@ -1,29 +1,14 @@
 +++
-title = "About Hugo"
+title = "About Tom"
 date = "2014-04-09"
 +++
 
-Hugo is a static site engine written in Go.
+Hi I'm Tom and I'm a software engineer.
 
+From an early age I enjoyed problem solving, computers, and building things. So I went down the path of Civil Engineering and completed my Bachelor's for it in 2013.
 
-It makes use of a variety of open source projects including:
+During my time as a civil engineer I got more and more involved in design automation and exploring the realm of programming. I started off with VBA, then moved to Python, and finally completed CS50 course which solidified my decision to make software engineering my career.
 
-* [Cobra](https://github.com/spf13/cobra)
-* [Viper](https://github.com/spf13/viper)
-* [J Walter Weatherman](https://github.com/spf13/jWalterWeatherman)
-* [Cast](https://github.com/spf13/cast)
+Since then, I've been completing a MSc in computer science at the University of Birmingham. I have thoroughly enjoyed all the subjects, particularly machine learning.
 
-Learn more and contribute on [GitHub](https://github.com/spf13).
-
-## Setup
-
-Some fun facts about [Hugo](http://gohugo.io/):
-
-* Built in [Go](http://golang.org/)
-* Loosely inspired by [Jekyll](http://jekyllrb.com/)
-* Primarily developed by [spf13](http://spf13.com/) on the train while commuting to and from Manhattan.
-* Coded in [Vim](http://vim.org) using [spf13-vim](http://vim.spf13.com/)
-
-Have questions or suggestions? Feel free to [open an issue on GitHub](https://github.com/spf13/hugo/issues/new) or [ask me on Twitter](https://twitter.com/spf13).
-
-Thanks for reading!
+I'm also a member of UBRobotics, a society where we build a robot to compete in the Eurobot competition starting in April.
