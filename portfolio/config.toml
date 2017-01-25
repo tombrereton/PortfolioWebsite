@@ -15,12 +15,12 @@ pygmentscodefences  = true
   disqusShortname = "thomasbrereton"
 
 [[menu.main]]
-    name = "About"
-    url  = "/about/"
-[[menu.main]]
     name = "Projects"
     url  = "/projects/"
 [[menu.main]]
     name = "Resume"
     url  = "/resume/"
+[[menu.main]]
+    name = "Blog"
+    url  = "/post/"
 
