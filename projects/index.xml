@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Projects on Tom Brereton</title>
+    <link>https://tombrereton.github.io/PortfolioWebsite/projects/index.xml</link>
+    <description>Recent content in Projects on Tom Brereton</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en</language>
+    <lastBuildDate>Tue, 24 Jan 2017 23:33:50 +0000</lastBuildDate>
+    <atom:link href="https://tombrereton.github.io/PortfolioWebsite/projects/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>Web Crawler</title>
+      <link>https://tombrereton.github.io/PortfolioWebsite/projects/web_crawler/</link>
+      <pubDate>Tue, 24 Jan 2017 23:33:50 +0000</pubDate>
+      
+      <guid>https://tombrereton.github.io/PortfolioWebsite/projects/web_crawler/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>UBRobotics</title>
+      <link>https://tombrereton.github.io/PortfolioWebsite/projects/UBRobotics/</link>
+      <pubDate>Tue, 24 Jan 2017 23:18:35 +0000</pubDate>
+      
+      <guid>https://tombrereton.github.io/PortfolioWebsite/projects/UBRobotics/</guid>
+      <description>
+
+&lt;h2 id=&#34;1-installing-raspbian-on-the-pi&#34;&gt;1. Installing Raspbian on the Pi&lt;/h2&gt;
+
+&lt;p&gt;Format SD card and download NOOBS&lt;/p&gt;
+
+&lt;h2 id=&#34;2-installing-opencv-on-the-pi&#34;&gt;2. Installing openCV on the Pi&lt;/h2&gt;
+
+&lt;p&gt;Go to this tutorial&lt;/p&gt;
+
+
+&lt;center&gt;
+&lt;figure &gt;
+    
+        &lt;img src=&#34;https://tombrereton.github.io/PortfolioWebsite/img/pi-camera.jpg&#34;  height=&#34;350&#34; /&gt;
+    
+    
+    &lt;figcaption&gt;
+        &lt;em&gt;Connecting the camera&lt;/em&gt;
+        
+    &lt;/figcaption&gt;
+    
+&lt;/figure&gt;
+&lt;/center&gt;
+
+
+
+&lt;h2 id=&#34;3-getting-the-pi-to-recognise-hamming-markers&#34;&gt;3. Getting the Pi to recognise Hamming Markers&lt;/h2&gt;
+
+&lt;p&gt;Careful inserting camera
+Activate camera on pi
+Show python code&lt;/p&gt;
+
+&lt;h2 id=&#34;4-triangulating-the-robots-position&#34;&gt;4. Triangulating the robots position&lt;/h2&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>

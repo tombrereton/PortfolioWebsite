@@ -6,8 +6,70 @@
     <description>Recent content on Tom Brereton</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
-    <lastBuildDate>Fri, 20 Jan 2017 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 24 Jan 2017 23:33:50 +0000</lastBuildDate>
     <atom:link href="https://tombrereton.github.io/PortfolioWebsite/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>Web Crawler</title>
+      <link>https://tombrereton.github.io/PortfolioWebsite/projects/web_crawler/</link>
+      <pubDate>Tue, 24 Jan 2017 23:33:50 +0000</pubDate>
+      
+      <guid>https://tombrereton.github.io/PortfolioWebsite/projects/web_crawler/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>UBRobotics</title>
+      <link>https://tombrereton.github.io/PortfolioWebsite/projects/UBRobotics/</link>
+      <pubDate>Tue, 24 Jan 2017 23:18:35 +0000</pubDate>
+      
+      <guid>https://tombrereton.github.io/PortfolioWebsite/projects/UBRobotics/</guid>
+      <description>
+
+&lt;h2 id=&#34;1-installing-raspbian-on-the-pi&#34;&gt;1. Installing Raspbian on the Pi&lt;/h2&gt;
+
+&lt;p&gt;Format SD card and download NOOBS&lt;/p&gt;
+
+&lt;h2 id=&#34;2-installing-opencv-on-the-pi&#34;&gt;2. Installing openCV on the Pi&lt;/h2&gt;
+
+&lt;p&gt;Go to this tutorial&lt;/p&gt;
+
+
+&lt;center&gt;
+&lt;figure &gt;
+    
+        &lt;img src=&#34;https://tombrereton.github.io/PortfolioWebsite/img/pi-camera.jpg&#34;  height=&#34;350&#34; /&gt;
+    
+    
+    &lt;figcaption&gt;
+        &lt;em&gt;Connecting the camera&lt;/em&gt;
+        
+    &lt;/figcaption&gt;
+    
+&lt;/figure&gt;
+&lt;/center&gt;
+
+
+
+&lt;h2 id=&#34;3-getting-the-pi-to-recognise-hamming-markers&#34;&gt;3. Getting the Pi to recognise Hamming Markers&lt;/h2&gt;
+
+&lt;p&gt;Careful inserting camera
+Activate camera on pi
+Show python code&lt;/p&gt;
+
+&lt;h2 id=&#34;4-triangulating-the-robots-position&#34;&gt;4. Triangulating the robots position&lt;/h2&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Blog</title>
+      <link>https://tombrereton.github.io/PortfolioWebsite/blog/</link>
+      <pubDate>Fri, 20 Jan 2017 00:00:00 +0000</pubDate>
+      
+      <guid>https://tombrereton.github.io/PortfolioWebsite/blog/</guid>
+      <description>&lt;p&gt;{{ partial &amp;ldquo;list.html&amp;rdquo; . }}&lt;/p&gt;
+</description>
+    </item>
     
     <item>
       <title>Projects</title>
@@ -38,6 +100,8 @@
 &lt;p&gt;On this page I have highlighted some of my key achievements and interests.&lt;/p&gt;
 
 &lt;p&gt;To view more click on the link to download my CV.&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&#34;https://tombrereton.github.io/PortfolioWebsite/CV/TomBreretonCV.pdf&#34;&gt;CV&lt;/a&gt;&lt;/p&gt;
 </description>
     </item>
     
@@ -1229,24 +1293,6 @@ $ vi themes/zafta/layouts/_default/single.html
 &lt;h3 id=&#34;don-t-repeat-yourself&#34;&gt;Don&amp;rsquo;t Repeat Yourself&lt;/h3&gt;
 
 &lt;p&gt;DRY is a good design goal and Hugo does a great job supporting it. Part of the art of a good template is knowing when to add a new template and when to update an existing one. While you&amp;rsquo;re figuring that out, accept that you&amp;rsquo;ll be doing some refactoring. Hugo makes that easy and fast, so it&amp;rsquo;s okay to delay splitting up a template.&lt;/p&gt;
-</description>
-    </item>
-    
-    <item>
-      <title>About Tom</title>
-      <link>https://tombrereton.github.io/PortfolioWebsite/about/</link>
-      <pubDate>Wed, 09 Apr 2014 00:00:00 +0000</pubDate>
-      
-      <guid>https://tombrereton.github.io/PortfolioWebsite/about/</guid>
-      <description>&lt;p&gt;Hi I&amp;rsquo;m Tom and I&amp;rsquo;m a software engineer.&lt;/p&gt;
-
-&lt;p&gt;From an early age I enjoyed problem solving, computers, and building things. So I went down the path of Civil Engineering and completed my Bachelor&amp;rsquo;s for it in 2013.&lt;/p&gt;
-
-&lt;p&gt;During my time as a civil engineer I got more and more involved in design automation and exploring the realm of programming. I started off with VBA, then moved to Python, and finally completed CS50 course which solidified my decision to make software engineering my career.&lt;/p&gt;
-
-&lt;p&gt;Since then, I&amp;rsquo;ve been completing a MSc in computer science at the University of Birmingham. I have thoroughly enjoyed all the subjects, particularly machine learning.&lt;/p&gt;
-
-&lt;p&gt;I&amp;rsquo;m also a member of UBRobotics, a society where we build a robot to compete in the Eurobot competition starting in April.&lt;/p&gt;
 </description>
     </item>
     

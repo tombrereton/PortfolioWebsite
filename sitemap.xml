@@ -2,6 +2,21 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   
   <url>
+    <loc>https://tombrereton.github.io/PortfolioWebsite/projects/web_crawler/</loc>
+    <lastmod>2017-01-24T23:33:50+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://tombrereton.github.io/PortfolioWebsite/projects/UBRobotics/</loc>
+    <lastmod>2017-01-24T23:18:35+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://tombrereton.github.io/PortfolioWebsite/blog/</loc>
+    <lastmod>2017-01-20T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
     <loc>https://tombrereton.github.io/PortfolioWebsite/projects/</loc>
     <lastmod>2017-01-20T00:00:00+00:00</lastmod>
   </url>
@@ -19,11 +34,6 @@
   <url>
     <loc>https://tombrereton.github.io/PortfolioWebsite/post/creating-a-new-theme/</loc>
     <lastmod>2014-09-28T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://tombrereton.github.io/PortfolioWebsite/about/</loc>
-    <lastmod>2014-04-09T00:00:00+00:00</lastmod>
   </url>
   
   <url>
@@ -89,6 +99,12 @@
   </url>
   
   <url>
+    <loc>https://tombrereton.github.io/PortfolioWebsite/projects/</loc>
+    <lastmod>2017-01-24T23:33:50+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
     <loc>https://tombrereton.github.io/PortfolioWebsite/tags/</loc>
     <priority>0</priority>
   </url>
@@ -107,7 +123,7 @@
   
   <url>
     <loc>https://tombrereton.github.io/PortfolioWebsite/</loc>
-    <lastmod>2017-01-20T00:00:00+00:00</lastmod>
+    <lastmod>2017-01-24T23:33:50+00:00</lastmod>
     <priority>0</priority>
   </url>
   
