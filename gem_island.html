@@ -56,9 +56,9 @@
 
                 </div>
                 <div class="navbar-end">
-                    <a class="nav-item is-active" href="#">Home</a>
+                    <a class="nav-item" href="index.html">Home</a>
                     <a class="nav-item" href="projects.html">Projects</a>
-                    <a class="nav-item" href="gem_island.html">Gem Island</a>
+                    <a class="nav-item is-active">Gem Island</a>
                     <a class="nav-item" href="https://www.linkedin.com/in/tbrereton">LinkedIn</a>
                     <span class="nav-item is-hidden-mobile">
                         <a class="button is-primary twitter-button" href="https://www.github.com/tombrereton">
@@ -74,28 +74,11 @@
     <div class="hero-body">
         <div class="container has-text-centered">
             <div class="columns">
-                <div class="column">
-                    <figure class="image is-3by2">
-                        <img src="img/about-headphones-small.jpg">
-                    </figure>
+                <div class="column" align="center">
+                    <div id="game"></div>
+                    <div class="row" style="margin-top: 10px">
+                    </div>
                 </div>
-                <div class="column has-text-right">
-                    <h1 class="is-2 title">Software Engineer</h1>
-                    <h1 class="is-5 subtitle">Curious to know how things work and how to make them better</h1>
-                    <p>I lived in Adelaide, Australia.</p>
-                    <p>I moved to London for work.</p>
-                    <p>I moved to Birmingham for study</p>
-                    <p>I'm now back in London ... for more work.</p>
-                    <p>I have a BEng with honours in civil and structural engineering.</p>
-                    <p>I have a MSc in computer science.</p>
-                    <p>I like designing and building things, like <a href="projects.html"><strong>these</strong></a>.
-                    </p>
-                    <p>I keep my code clean and crisp.</p>
-                    <p>I like rock music, a good pair of headphones, and live gigs.</p>
-
-
-                </div>
-
             </div>
         </div>
     </div>
@@ -104,6 +87,15 @@
 
 <!--Javascript files-->
 <script src="https://ajax.googleapis.com/ajax/libs/jquery/1.12.4/jquery.min.js"></script>
+<script src="//cdn.jsdelivr.net/phaser/2.6.2/phaser.min.js"></script>
 <script src="js/indexFunctions.js"></script>
+<script src="js/global_variables.js"></script>
+<script src="js/game_logic.js"></script>
+<script src="js/grids.js"></script>
+<script src="js/movement.js"></script>
+<script src="js/load_state.js"></script>
+<script src="js/intro_state.js"></script>
+<script src="js/play_state.js"></script>
+<script src="js/threematch.js"></script>
 </body>
 </html>
